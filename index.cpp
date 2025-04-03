@@ -6,5 +6,6 @@ int main(){
     cout<<a <<" "<<b;
     int d=20;
     int e=30;
+    cout<<"this is a neww feature";
 
 }
